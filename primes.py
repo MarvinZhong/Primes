@@ -1,5 +1,3 @@
-#姓名 : 鍾明智
-#學號 : 107213067
 def Finding(Prime): #statement for finding primes
     x = 2 #x start value
     while x <= Prime/2 : #term for Prime
